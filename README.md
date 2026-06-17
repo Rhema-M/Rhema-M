@@ -1,11 +1,11 @@
-# Hi, I'm Rhema Miller 👋
+# Hi, I'm Rhema Miller 👋🏾
 
 Web Developer focused on building responsive, real-world web applications.
 
 I specialize in turning ideas into clean, functional interfaces.
 
 
-## 🚀 What I Do
+## What I Do
 
 - Build responsive, mobile-friendly websites  
 - Create interactive UI components with JavaScript  
