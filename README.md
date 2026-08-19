@@ -36,14 +36,6 @@ APIs, advanced JavaScript patterns, responsive UI architecture
 Building real-world frontend projects to strengthen UI/UX and JavaScript skills, and problem-solving ability.
 
 
-## 📈 Current Focus
-
-- Building a strong frontend portfolio  
-- Improving JavaScript fundamentals  
-- Learning how to structure production-ready projects  
-- Practicing responsive design systems  
-
-
 ## 🎯 Goal
 
 To become a job-ready developer through consistent project-based learning and real-world application building.
