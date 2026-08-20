@@ -1,4 +1,4 @@
-# Hi, I'm Rhema Miller 👋🏾
+# Hi, I'm Rhema Miller 
 
 **Computer Systems Engineering student | Full-Stack Software Developer | AI & Data Enthusiast**
 
@@ -8,7 +8,7 @@ I enjoy working across the software stack—from designing user interfaces and d
 
 I'm particularly interested in **full-stack development, software engineering, artificial intelligence, data analytics, and IoT systems**.
 
-## 🚀 What I Build
+##  What I Build
 
 * Full-stack web applications
 * Backend services and REST APIs
@@ -18,7 +18,7 @@ I'm particularly interested in **full-stack development, software engineering, a
 * IoT and embedded systems
 * Data-driven applications and analytics tools
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages & Programming**
 
@@ -66,7 +66,7 @@ I'm particularly interested in **full-stack development, software engineering, a
 * Arduino IDE
 
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 * Advanced JavaScript
 * React
@@ -75,11 +75,11 @@ I'm particularly interested in **full-stack development, software engineering, a
 * Artificial Intelligence
 * Data Analytics
 
-## 🎯 Career Focus
+##  Career Focus
 
 I'm working toward a career in **software engineering and full-stack development**, with a particular interest in building intelligent, data-driven applications and systems that bridge software, AI, and real-world technology.
 
-## 📫 Connect With Me
+##  Connect With Me
 
 **LinkedIn:** [linkedin.com/in/rhema-m-miller](https://www.linkedin.com/in/rhema-m-miller)
 
