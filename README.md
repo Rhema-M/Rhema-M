@@ -65,25 +65,6 @@ I'm particularly interested in **full-stack development, software engineering, a
 * MySQL Workbench
 * Arduino IDE
 
-## 📂 Featured Projects
-
-### 🔐 Smart Monitoring & Security System
-
-A full-stack IoT monitoring and security system integrating ESP32 hardware, multiple sensors, a Flask backend, MySQL database, and an interactive web dashboard.
-
-**Tech:** ESP32 • Python • Flask • MySQL • REST APIs • IoT
-
-### ☕ Brew Haven
-
-A responsive coffee shop web application featuring an interactive ordering system, shopping cart functionality, responsive layouts, and JavaScript-based DOM interactions.
-
-**Tech:** HTML • CSS • JavaScript
-
-### 🏋️ IronEdge Fitness
-
-A responsive business landing page designed and developed to demonstrate modern web layout, responsive design, and interactive frontend development.
-
-**Tech:** HTML • CSS • JavaScript
 
 ## 🌱 Currently Learning
 
