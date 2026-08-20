@@ -1,47 +1,105 @@
 # Hi, I'm Rhema Miller 👋🏾
 
-Web Developer focused on building responsive, real-world web applications.
+**Computer Systems Engineering student | Full-Stack Software Developer | AI & Data Enthusiast**
 
-I specialize in turning ideas into clean, functional interfaces.
+I'm a Computer Systems Engineering student at the **Vaal University of Technology** focused on building practical software and intelligent systems that solve real-world problems.
 
+I enjoy working across the software stack—from designing user interfaces and developing frontend applications to building backend services, APIs, databases, and software-hardware integrations.
 
-## What I Do
+I'm particularly interested in **full-stack development, software engineering, artificial intelligence, data analytics, and IoT systems**.
 
-- Build responsive, mobile-friendly websites  
-- Create interactive UI components with JavaScript  
-- Translate designs into clean, structured code  
-- Focus on usability, performance, and simplicity  
+## 🚀 What I Build
 
+* Full-stack web applications
+* Backend services and REST APIs
+* Responsive and interactive web interfaces
+* Database-driven applications
+* AI-powered software solutions
+* IoT and embedded systems
+* Data-driven applications and analytics tools
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-HTML, CSS, JavaScript
+**Languages & Programming**
 
-**Backend / Data:**  
-Python, MySQL
+* Python
+* JavaScript
+* C/C++
+* SQL
+* HTML
+* CSS
 
-**Embedded / IoT:**  
-ESP32, Arduino, IoT fundamentals
+**Web & Software Development**
 
-**Tools & Workflow:**  
-Git, GitHub, VS Code
+* React
+* Flask
+* REST APIs
+* Full-Stack Development
+* Responsive Web Design
 
-**Currently Expanding:**  
-APIs, advanced JavaScript patterns, responsive UI architecture
+**Databases & Data**
 
+* MySQL
+* Pandas
+* NumPy
+* Data Analysis
 
-## 📂 Featured Projects — Coming Soon
+**AI & Intelligent Systems**
 
-Building real-world frontend projects to strengthen UI/UX and JavaScript skills, and problem-solving ability.
+* Artificial Intelligence
+* Machine Learning
+* AI Application Development
 
+**Embedded & IoT**
 
-## 🎯 Goal
+* ESP32
+* Arduino
+* Sensor Integration
+* IoT Systems
 
-To become a job-ready developer through consistent project-based learning and real-world application building.
+**Tools & Workflow**
 
+* Git
+* GitHub
+* VS Code
+* MySQL Workbench
+* Arduino IDE
+
+## 📂 Featured Projects
+
+### 🔐 Smart Monitoring & Security System
+
+A full-stack IoT monitoring and security system integrating ESP32 hardware, multiple sensors, a Flask backend, MySQL database, and an interactive web dashboard.
+
+**Tech:** ESP32 • Python • Flask • MySQL • REST APIs • IoT
+
+### ☕ Brew Haven
+
+A responsive coffee shop web application featuring an interactive ordering system, shopping cart functionality, responsive layouts, and JavaScript-based DOM interactions.
+
+**Tech:** HTML • CSS • JavaScript
+
+### 🏋️ IronEdge Fitness
+
+A responsive business landing page designed and developed to demonstrate modern web layout, responsive design, and interactive frontend development.
+
+**Tech:** HTML • CSS • JavaScript
+
+## 🌱 Currently Learning
+
+* Advanced JavaScript
+* React
+* Backend & API development
+* Software architecture
+* Artificial Intelligence
+* Data Analytics
+
+## 🎯 Career Focus
+
+I'm working toward a career in **software engineering and full-stack development**, with a particular interest in building intelligent, data-driven applications and systems that bridge software, AI, and real-world technology.
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/rhema-m-miller  
-- Email: rhemammiller@gmail.com  
+**LinkedIn:** [linkedin.com/in/rhema-m-miller](https://www.linkedin.com/in/rhema-m-miller)
+
+**Email:** [rhemammiller@gmail.com](mailto:rhemammiller@gmail.com)
